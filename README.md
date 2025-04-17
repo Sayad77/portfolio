@@ -10,7 +10,7 @@ https://sayad77.github.io/portfolio/
 ## ✨ À propos
 
 🎯 **Développeur Web & Créatif**  
-🎙️ **Fondateur de la Webradio La Radio de L'Envers du Décor et de la société OneTechAir**  
+🎙️ **Fondateur de la Webradio La Radio de L'EnversduDécor et de la société OneTechAir**  
 💡 Passionné par le code, la communication et l'innovation
 
 Ce site vitrine reflète mes compétences techniques, mes projets personnels et professionnels, ainsi que mon univers créatif entre digital et média.
