@@ -113,7 +113,10 @@ window.addEventListener('load', function() {
         document.querySelector('.filter-btn')?.classList.add('active');
     };
 
-    
+    document.getElementById('theme-toggle').addEventListener('click', function() {
+  document.body.classList.toggle('dark-mode');
+});
+
     
 
 // Ajouter dans votre fichier JavaScript ou dans une balise script à la fin du document
