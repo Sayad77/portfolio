@@ -253,11 +253,31 @@ body.dark-theme .header {
 
 /* Responsive pour l'animation sur mobile */
 @media (max-width: 768px) {
-    .code-animation-container {
-        width: 90%;
-        margin: 20px auto;
-    }
+  .header {
+    position: fixed;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    padding-top: 4rem;
+    transition: left 0.3s ease;
+  }
+
+  .header.active {
+    left: 0;
+  }
+
+  #menu-btn {
+    display: block;
+  }
+
+  @media (max-width: 768px) {
+  .home, .about {
+    padding-left: 0;
+  }
 }
+
+}
+
 
 /* Animation pour les transitions entre sections avec l'animation SVG */
 .home {
